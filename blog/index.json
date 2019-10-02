@@ -1,5 +1,13 @@
 [
     {
+        "ref": "https://jimmytortilla.github.io/natesplace/blog/getting-started/",
+        "title": "Getting Started",
+        "section": "blog",
+        "date" : "2019.10.02",
+        "body": "Though our family has a website, its main purpose is not as a blog but as a newsletter and prayer list. I also set up another website this past week for our church here in Japan, Siloam Intl. Christian church\u0026ndash;in Japanese, of course. Both sites are Github Pages and were built with Hugo using the Ananke theme. Through the experience of getting these two sites set up, I found that I really enjoyed writing the updates and that I am always tempted to write too much and off subject. So why not just start another little site?\nAt first my simple, little blog site was taken from \u0026ldquo;Make a Hugo Blog from Scratch\u0026rdquo;. I really liked it for its minimalistic style, but it lacked some features. That being the case, I have changed to the theme Pulp. It just works.\n"
+    }
+,
+    {
         "ref": "https://jimmytortilla.github.io/natesplace/blog/nematomorpha/",
         "title": "Nematomorpha",
         "section": "blog",
