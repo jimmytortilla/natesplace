@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jimmytortilla.github.io/natesplace/blog/</loc>
+    <lastmod>2019-09-30T13:50:25+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jimmytortilla.github.io/natesplace/</loc>
+    <lastmod>2019-09-30T13:50:25+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jimmytortilla.github.io/natesplace/blog/nematomorpha/</loc>
+    <lastmod>2019-09-30T13:50:25+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jimmytortilla.github.io/natesplace/blog/the-workers-are-few/</loc>
+    <lastmod>2019-09-30T00:07:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jimmytortilla.github.io/natesplace/series/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
