@@ -5,10 +5,21 @@
     <link>https://jimmytortilla.github.io/natesplace/</link>
     <description>Recent content on Nate&#39;s Place</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 02 Oct 2019 09:01:57 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 11:26:59 +0900</lastBuildDate>
     
 	<atom:link href="https://jimmytortilla.github.io/natesplace/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Sozi</title>
+      <link>https://jimmytortilla.github.io/natesplace/blog/sozi/</link>
+      <pubDate>Wed, 02 Oct 2019 11:26:59 +0900</pubDate>
+      
+      <guid>https://jimmytortilla.github.io/natesplace/blog/sozi/</guid>
+      <description>So what is Sozi? Sozi is the name of a software program which allows us to make make an SVG (scaleable vector graphic) into an animated slideshow via HTML.
+Today I want to spend very short amount of time to see if I can embed a Sozi built presentation into this blog post.
+Here goes! First: Create an SVG.   This SVG image was created with Inkscape.   Second: Open the SVG in Sozi and make a slideshow.</description>
+    </item>
     
     <item>
       <title>Getting Started</title>

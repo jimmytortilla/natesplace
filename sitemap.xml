@@ -4,19 +4,24 @@
   
   <url>
     <loc>https://jimmytortilla.github.io/natesplace/blog/</loc>
-    <lastmod>2019-10-02T09:01:57+09:00</lastmod>
+    <lastmod>2019-10-02T11:26:59+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jimmytortilla.github.io/natesplace/</loc>
+    <lastmod>2019-10-02T11:26:59+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jimmytortilla.github.io/natesplace/blog/sozi/</loc>
+    <lastmod>2019-10-02T11:26:59+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://jimmytortilla.github.io/natesplace/blog/getting-started/</loc>
     <lastmod>2019-10-02T09:01:57+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jimmytortilla.github.io/natesplace/</loc>
-    <lastmod>2019-10-02T09:01:57+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
