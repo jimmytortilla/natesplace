@@ -1,0 +1,29 @@
+baseURL = "https://jimmytortilla.github.io/natesplace/"
+theme = "hugo-bearblog"
+title = "Nate's Place"
+author = "Nate"
+copyright = "Copyright © 2026, Nate."
+languageCode = "en-US"
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+
+[permalinks]
+  blog = "/:slug/"
+
+[params]
+  description = "Nate's personal blog. Short posts, photos, and videos."
+  favicon = "images/favicon.png"
+  images = ["images/share.png"]
+  title = "Nate's Place"
+  dateFormat = "January 2, 2006"
+  enablePostNavigator = true
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    style = "friendly"
+    lineNos = false
+    codeFences = true
