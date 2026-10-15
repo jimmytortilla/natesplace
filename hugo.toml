@@ -1,7 +1,6 @@
 baseURL = "https://jimmytortilla.github.io/natesplace/"
 title = "Nate's Place"
 theme = "PaperMod"
-paginate = 5
 
 [pagination]
   pagerSize = 5
