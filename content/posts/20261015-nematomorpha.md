@@ -5,7 +5,7 @@ date: 2026-10-15
 description: "A Strange Lifeform"
 cover:
   image: "images/nematomorpha.jpg"
-  alt:"a horsehair worm"
+  alt: "a horsehair worm"
 ---
 
 Several years ago, in the fall in Japan, I made this little video about a creature that may give you nightmares.
