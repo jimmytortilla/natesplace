@@ -1,0 +1,32 @@
+baseURL = "https://jimmytortilla.github.io/natesplace/"
+title = "Nate's Place"
+theme = "PaperMod"
+paginate = 5
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  env = "production"
+  description = "a simple personal blog"
+  author = "Nate Stratton"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowShareButtons = false
+  mainSections = ["posts"]
+
+  [params.homeInfoParams]
+    Title = "Nate's Place"
+    Content = """
+a simple personal blog
+
+Nate's Place is really just a simple site for me (Nate Stratton) to share some of my thoughts and ideas and those of others that I find interesting, compelling, useful, thought provoking, or just plain funny. It is a work in progress, as am I.
+"""
+
+  [params.cover]
+    hiddenInList = false
+    hiddenInSingle = false
+
+[markup.goldmark.renderer]
+  unsafe = true
