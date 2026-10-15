@@ -1,12 +1,12 @@
-+++
-date = '2026-10-15T23:12:10Z'
-draft = true
-title = 'Revisiting Nematamorpha'
-description: "a horsehair worm"
+---
+title; "Revisiting Nematomorpha"
+subtitle: "Aliens?"
+date: 2026-10-15
+description: "A Strange Lifeform"
 cover:
   image: "images/nematomorpha.jpg"
   alt: "a horsehair worm"
-+++
+---
 
 Several years ago, in the fall in Japan, I made this little video about a creature that may give you nightmares.
 
