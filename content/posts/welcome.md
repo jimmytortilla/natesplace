@@ -4,7 +4,7 @@ subtitle: "Is it spring or is it fall?"
 date: 2026-10-15
 description: "A short welcome note."
 cover:
-  image: "../../images/echo_fall.jpg"
+  image: "images/echo_fall.jpg"
   alt: "Placeholder image"
 ---
 
@@ -12,7 +12,7 @@ Welcome (or welcome back) to Nate's place. It is a new season in our lives here 
 
 Outside it is a new season, too. It seems very much to be fall, at least according to the sugar maple tree outside our house, but some plants -- at least one plant -- may be a little confused.
 
-![A Confused Crocus](../../images/crazy_crocus.jpg "A Confused Crocus")
+![A Confused Crocus](images/crazy_crocus.jpg "A Confused Crocus")
 
 As I stepped out the door the other day (to get some firewood, I believe) I saw a flower growing up through the soil between the stepping stones. Though it was already the beginning of October, there was a spring flower growing and blooming there, a crocus!
 
