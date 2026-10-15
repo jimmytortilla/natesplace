@@ -21,8 +21,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
           fetch-depth: 0
+          # No submodules — theme is a normal directory
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
