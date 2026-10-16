@@ -15,7 +15,7 @@ Over the past couple of years I have searched for a way using bash scripts and o
 
 My latest and greatest script is called "Chrontage" and was the result of telling Grok (Xai) what I wanted. It took a couple of weeks of tinkering, but this little program, which consists of a short Bash script, a Python script, and a fonts folder, manages to make beautiful videos relying on only ffmpeg and Python3!
 
-The following video was made completely offline from a folder full of unedited videos and a free audio track. I simply culled a few unwanted videoa and clips, made some minor adjustments and ran the script in my Termux (a free Linux terminal emulator for Android) and out came this video:
+The following video was made offline from a folder full of unedited videos and a free audio track in my Pixel 7a. I simply culled a few unwanted photos and video clips, made some minor adjustments and ran the script Termux (a free Linux terminal emulator for Android) and out came this video:
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1236441178?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Chrontage Test"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
