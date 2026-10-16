@@ -1,8 +1,7 @@
 ---
 title: "Welcome to a New Season"
-subtitle: "Is it spring or is it fall?"
 date: 2026-10-15
-description: "A short welcome note."
+description: "Spring or Fall?"
 cover:
   image: "images/echo_fall.jpg"
   alt: "Placeholder image"
