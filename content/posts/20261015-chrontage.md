@@ -7,7 +7,7 @@ cover:
   alt: "Placeholder image"
 ---
 
-Years ago, on an old iPhone 6, I learned about a feature called "Memories" which took photos and videos on the device and made them into a chronological slideshows with background music.
+**Years ago**, on an old iPhone 6, I learned about a feature called "Memories" which took photos and videos on the device and made them into a chronological slideshows with background music.
 
 I liked the feature and even used it a time or two to for little projects; however being the open source guy that I am, I wanted to figure out a way to make similar videos on GNU/Linux.  That took a long time.
 
